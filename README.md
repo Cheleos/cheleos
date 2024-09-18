@@ -1,7 +1,7 @@
 # Привет, меня зовут Никита! 
 ___
 
-# Это Рицца:)
+## Это Рицца:)
 ![header](https://github.com/Cheleos/cheleos/blob/main/assets/2F003837-2F003849_1700px.jpg)
 ___
 
@@ -11,7 +11,6 @@ ___
 Считаю своей сильно стороной стремление к постоянному развитию.
 
 Умею находить общий язык, системно мыслить, качественно выполнять свою работу.
-
 ___
 
 ### Связь со мной: 
@@ -24,13 +23,18 @@ ___
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
+___
 
 ### Tools:
 
-___
+### Работа с тестовой документацией:
+
+<div>
+  <img src="https://devopstales.github.io/img/redmine.bmp" title="redmine" alt="redline" width="40" height="40"/>&nbsp
+  <img src="https://www.wyversolutions.co.uk/post-images/2015/11/testlink-logo.png" title="test link" alt="test link" width="40" height="40"/>&nbsp
+</div>
 
 ### Тестирование Web:
-
 ___
 
 <div>
@@ -38,7 +42,6 @@ ___
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
-
 ___
 
 ### Работа с данными:
@@ -46,7 +49,6 @@ ___
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
 </div>
-
 ___
 
 ### Работа с кодом:
@@ -55,6 +57,16 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
 </div>
+____
+
+### Мое резюме:
+
+<div id="badges">
+    <a href="https://ufa.hh.ru/resume/f5efaac4ff0dbe209b0039ed1f6d3270575072" target="_blank">
+      <img src="https://static.tildacdn.info/tild3733-3166-4639-b332-323066616633/___3.png" width="40" height="40" alt="резюме" />
+    </a>
+  </div>
+___
 
 ### Портфолио:
 
