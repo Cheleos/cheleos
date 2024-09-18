@@ -2,7 +2,7 @@
 ___
 
 #Это мое тестовое портфолио:)
-![header](https://github.com/Cheleos/cheleos/blob/main/assets/d6ac39784275612c5a98bb2522a16953362bb1a5.jpg)
+![header](https://github.com/Cheleos/cheleos/blob/main/assets/Снимок%20экрана%202024-09-18%20в%2011.46.27.png)
 ___
 
 ### Обо мне: 
