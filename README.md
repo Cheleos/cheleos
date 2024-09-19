@@ -15,15 +15,10 @@ ___
 ### Связь со мной: 
 
 <div id="badges">
-    <a href="https://vk.com/shnikitaa" target="_blank">
-      <img src="https://creditural.ru/newsimages/images/vk2.png" width="40" height="40" alt="vk" />
-    </a>
     <a href="https://t.me/Na_SH3991" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
-
-nikitashobik@bk.ru
 
 ___
 
