@@ -1,7 +1,7 @@
 # Привет, меня зовут Никита! 
 ___
 
-![header](https://github.com/Cheleos/cheleos/blob/main/assets/2F003837-2F003849_1700px.jpg)
+![header](https://github.com/Cheleos/cheleos/blob/main/assets 144b6005adc3f89e4eba82b534e1255c.jpg)
 ___
 
 ### Обо мне: 
