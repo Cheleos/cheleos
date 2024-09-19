@@ -26,8 +26,8 @@ ___
 
 <div>
   <img src="https://formika.tomsk.ru/image/catalog/raznoe/pochtamajl.jpg" title="mail" alt=",mail" width="40" height="40"/>&nbsp
-</div>
-nikitashobik@bk.ru
+</div> nikitashobik@bk.ru
+
 ___
 
 ### Tools:
