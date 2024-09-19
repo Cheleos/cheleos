@@ -23,7 +23,7 @@ ___
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikitaelshobik@gmail.com) 
 
-[![mail Badge](hhttps://img.shields.io/badge/mail-ru)](mailto:nikitaelshobik@gmail.com)
+[![mail Badge](https://img.shields.io/badge/mail-ru)](mailto:nikitaelshobik@gmail.com)
 
 ___
 
