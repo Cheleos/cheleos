@@ -1,7 +1,6 @@
 # Привет, меня зовут Никита! 
 ___
 
-## Это Рицца:)
 ![header](https://github.com/Cheleos/cheleos/blob/main/assets/2F003837-2F003849_1700px.jpg)
 ___
 
@@ -24,9 +23,7 @@ ___
     </a>
   </div>
 
-<div>
-  <img src="https://formika.tomsk.ru/image/catalog/raznoe/pochtamajl.jpg" title="mail" alt=",mail" width="40" height="40"/>&nbsp
-</div> nikitashobik@bk.ru
+nikitashobik@bk.ru
 
 ___
 
