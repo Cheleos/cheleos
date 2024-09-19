@@ -19,6 +19,8 @@ ___
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikitaelshobik@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:nikitaelshobik@gmail.com)
+[![mail Badge](https://avatars.mds.yandex.net/get-znatoki/1649112/2a0000018101bda515e3e879a409c939eb39/w800)](mailto:nikitaelshobik@gmail.com) [![mail Badge](https://avatars.mds.yandex.net/get-znatoki/1649112/2a0000018101bda515e3e879a409c939eb39/w800)](mailto:nikitashobik@bk.ru)
 
 ___
 
